@@ -1,0 +1,6 @@
+- externalId: ${ externalId }
+  name: 'Ice Cream Factory Source Data'
+  description: This dataset contains Transformations, Functions, and Workflows for ingesting data into Cognite Data Fusion. 
+
+- externalId: transformation_ds
+  name: Temp
